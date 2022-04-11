@@ -24,6 +24,7 @@ with st.sidebar:
 # page
 st.header("EXCEL FILE GENERATOR WEB APP")
 st.text("With the help of this app you can convert your CSV file to Excel.")
+st.text("Finally app is working huhu!")
 
 # if uploaded_file is not None:
 
