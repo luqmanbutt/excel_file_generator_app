@@ -9,3 +9,4 @@ scikit_learn
 seaborn
 streamlit
 streamlit_pandas_profiling
+tk
